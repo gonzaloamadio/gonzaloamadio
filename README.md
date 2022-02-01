@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Venmo
+- 🔭 I’m currently working @ Venmo
 - 🌱 I’m currently learning Blockchain
 - 📫 How to reach me: my profile name @ gmail
 - ⚡ Fun fact: Travel & Music <3
@@ -54,7 +54,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzaloamadio&repo=django-safedelete)](https://github.com/gonzaloamadio/django-safedelete)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzaloamadio&repo=django-legacy-database)](https://github.com/gonzaloamadio/django-legacy-database)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzaloamadio&repo=reusable-apps-demo)](https://github.com/gonzaloamadio/reusable-apps-demo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzaloamadio&repo=django-safedelete)](https://github.com/gonzaloamadio/django-safedelete)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzaloamadio&repo=django_business_logic)](https://github.com/gonzaloamadio/django_business_logic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzaloamadio&repo=bash-scripts)](https://github.com/gonzaloamadio/bash-scripts)
 
