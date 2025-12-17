@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working @ Venmo
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning IA
 - 📫 How to reach me: my profile name @ gmail
 - ⚡ Fun fact: Travel & Music <3
 
